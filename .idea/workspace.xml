@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.01_HelloWorld">
+  <component name="RunManager" selected="Python.12_IfelseGrade">
     <configuration name="01_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_HelloWorld" />
         <item itemvalue="Python.12_IfelseGrade" />
+        <item itemvalue="Python.01_HelloWorld" />
         <item itemvalue="Python.11_input" />
         <item itemvalue="Python.10_Operation" />
         <item itemvalue="Python.09_FunctionBMI" />
