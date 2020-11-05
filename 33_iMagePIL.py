@@ -3,13 +3,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #read image
-image1 = Image.open("Irene.jpg")
+image1 = Image.open("Irene.jpg").convert("L")
 image2 = Image.open("Seulki.jpg")
 
 #display image
 plt.imshow(image1)
 plt.imshow(image2)
-#image1.show()
+image1.show()
 #image2.show()
 
 #show image properties
@@ -70,7 +70,7 @@ plt.subplot(2,3,6)
 plt.imshow(transposed_im6)
 plt.title("Transpose")
 
-plt.show()
+#plt.show()
 
 #rotating
 plt.figure(3)
