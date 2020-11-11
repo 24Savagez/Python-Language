@@ -27,14 +27,14 @@ def draw_boundary(img, classifier, scaleFactor, minNeighbors, color, clf):
         # check confident and defined
         if id == 1:
             if con <= 35:
-                cv2.putText(img, "Steve Jobs", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
+                cv2.putText(img, "Cherprnag", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
             else:
                 cv2.putText(img, "Unknow", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
-        if id == 2:
-            if con <= 35:
-                cv2.putText(img, "Bill Gates", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
-            else:
-                cv2.putText(img, "Unknow", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
+        #if id == 2:
+            #if con <= 35:
+                #cv2.putText(img, "Bill Gates", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
+            #else:
+                #cv2.putText(img, "Unknow", (x, y - 4), cv2.FONT_HERSHEY_SIMPLEX, 0.8, color, 2)
 
         # show percent
         if (con < 100):
@@ -61,11 +61,11 @@ def detect(img, faceCascade, img_id, clf):
 
 
 # read video put = name's video and 0 for webcame
-cap = cv2.VideoCapture("Video.mp4")
+cap = cv2.VideoCapture("BNK.mp4")
 
 # file trained
 clf = cv2.face.LBPHFaceRecognizer_create()
-clf.read("PersonClassifier01.xml")
+clf.read("PersonClassifierCherprang.xml")
 
 while (True):
     ret, frame = cap.read()

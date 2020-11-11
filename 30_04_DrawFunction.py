@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('elephant.jpg')
+img = cv2.imread('Irene.jpg')
 #line
 #img = cv2.line(img,(0,0),(255,255),(0,0,255),5)
 #arrow

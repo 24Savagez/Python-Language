@@ -30,7 +30,7 @@ def detect(img, faceCascade, eyeCascade, noseCascade, mouthCascade):
 
 
 # read video
-cap = cv2.VideoCapture("BNK.mp4")
+cap = cv2.VideoCapture(0)
 
 while (True):
     ret, frame = cap.read()

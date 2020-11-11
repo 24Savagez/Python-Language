@@ -1,7 +1,7 @@
 import cv2
 
 #read picture{0 = gray , 1 = RGB , -1 = Normal}
-img = cv2.imread("elephant.jpg",0)
+img = cv2.imread("Irene.jpg",0)
 
 #define head and show picture
 cv2.imshow('ImageResult',img)
