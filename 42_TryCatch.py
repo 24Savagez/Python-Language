@@ -12,3 +12,9 @@ for entry in randomList:
         print("Next entry.")
         print()
 print("The reciprocal of",entry,"is",r)
+
+x = "goodbye"
+assert x == "goodbye","x should be 'hello'"
+
+y = 101
+assert  y <= 100 and y >= 0,"go 100 - 0"
