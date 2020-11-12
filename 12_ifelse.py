@@ -19,6 +19,6 @@ try:
             print("Gread : F")
     else:
         print("Invalid score")
-except:
+except ValueError:
     print("Error,please try 0 - 100")
 
