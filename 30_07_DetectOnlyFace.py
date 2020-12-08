@@ -10,7 +10,7 @@ faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 # create name
 def create_dataset(img, id, img_id):
-    cv2.imwrite("Pic003/pic." + str(id) + "." + "(" + str(img_id) + ")" + ".jpg", img)
+    cv2.imwrite("Pic001/pic." + str(id) + "." + "(" + str(img_id) + ")" + ".jpg", img)
 
 
 # function
@@ -41,7 +41,7 @@ def detect(img, faceCascade, img_id):
 
 
 # read video put = name's video and 0 for webcame
-cap = cv2.VideoCapture("bnk.mp4")
+cap = cv2.VideoCapture(0)
 
 while (True):
     ret, frame = cap.read()

@@ -5,8 +5,8 @@ import cv2
 
 
 # creat file name
-def train_classifier(Pic003_dir):
-    path = [os.path.join(Pic003_dir, f) for f in os.listdir(Pic003_dir)]
+def train_classifier(Pic001_dir):
+    path = [os.path.join(Pic001_dir, f) for f in os.listdir(Pic001_dir)]
 
     faces = []
     ids = []
@@ -23,8 +23,8 @@ def train_classifier(Pic003_dir):
     clf = cv2.face.LBPHFaceRecognizer_create()
     clf.train(faces, ids)
     # name's file
-    clf.write("PersonClassifierCherprang.xml")
+    clf.write("PersonClassifierFHA.xml")
 
 
 # call function
-train_classifier("Pic003")
+train_classifier("Pic001")
