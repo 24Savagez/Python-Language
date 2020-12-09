@@ -1,5 +1,3 @@
-from forex_python.converter import CurrencyRates
+from forex_python.converter import CurrencyRates, CurrencyCodes
 
-c = CurrencyRates()
-result = c.get_rates('EUR')
 

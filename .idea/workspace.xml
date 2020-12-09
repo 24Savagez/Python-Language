@@ -21,6 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_BMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_BMI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_FunctionBMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_FunctionBMI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27_HeartPyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/27_HeartPyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/58_TestApiForex.py" beforeDir="false" afterPath="$PROJECT_DIR$/58_TestApiForex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +61,8 @@
       <recent name="C:\Users\JaiDog\Documents\GitHub\Python-Language" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.58_TestApiForex">
-    <configuration name="30_05_DetectFace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.27_HeartPyramid">
+    <configuration name="04_Comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_05_DetectFace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Comment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="55_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_FunctionBMI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55_inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_FunctionBMI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="56_Overriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27_HeartPyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56_Overriding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_HeartPyramid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.27_HeartPyramid" />
+        <item itemvalue="Python.09_FunctionBMI" />
+        <item itemvalue="Python.04_Comment" />
         <item itemvalue="Python.58_TestApiForex" />
         <item itemvalue="Python.57_Encapsulation" />
-        <item itemvalue="Python.56_Overriding" />
-        <item itemvalue="Python.30_05_DetectFace" />
-        <item itemvalue="Python.55_inheritance" />
       </list>
     </recent_temporary>
   </component>
