@@ -1,29 +1,30 @@
-#function Calculate BMI
-def BmiCalculate(x,y):
-    #calculate
-    bmi = y / ((x * x) / 10000)
-    #result to .1 point
-    bmi = round(bmi, 1)
-    return bmi
+# function Calculate BMI
+def bmi_calculate(height, weight):
+    # calculate
+    bmi_cal = weight / ((height * height) / 10000)
+    # result to .1 point
+    bmi_round = round(bmi_cal, 1)
+    return bmi_round
 
-#input weight and Height
-x = float(input("Enter your Height(cm.) : "))
-y = float(input("Enter your Weight(kg.) : "))
 
-#call function
-bmi = BmiCalculate(x,y)
+# input weight and Height
+height = float(input("Enter your Height(cm.) : "))
+weight = float(input("Enter your Weight(kg.) : "))
 
-print("Your BMI : ",bmi)
-#print('Your BMI : '+format(bmi,'.2f'))
+# call function
+bmi = bmi_calculate(height, weight)
 
-#find description bmi
-if bmi > 30 :
+print("Your BMI : ", bmi)
+# print('Your BMI : '+format(bmi,'.2f'))
+
+# find description bmi
+if bmi > 30:
     print("You are Obese")
-elif bmi > 25 :
+elif bmi > 25:
     print("You are Overweight")
-elif bmi > 18.5 :
+elif bmi > 18.5:
     print("You are Smart")
-elif bmi > 16 :
+elif bmi > 16:
     print("You are Thinness")
 else:
     print("You are Severe Thinness")
