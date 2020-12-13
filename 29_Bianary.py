@@ -4,3 +4,4 @@ print(chr(0B01001000)+chr(0B01000101)+chr(0B01001100)+chr(0B01001100)+chr(0B0100
 print("\n")
 
 print(hex(0B01100000))
+

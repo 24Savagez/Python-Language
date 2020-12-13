@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29_Bianary.py" beforeDir="false" afterPath="$PROJECT_DIR$/29_Bianary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +57,8 @@
       <recent name="C:\Users\JaiDog\Documents\GitHub\Python-Language" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.60_08_OpenCv_Mouse_Events3">
-    <configuration name="59_PGCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.60_06_OpenCv_Mouse_Events">
+    <configuration name="29_Bianary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/59_PGCD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_Bianary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.60_08_OpenCv_Mouse_Events3" />
-        <item itemvalue="Python.60_07_OpenCv_Mouse_Events2" />
-        <item itemvalue="Python.61_LCM" />
-        <item itemvalue="Python.59_PGCD" />
         <item itemvalue="Python.60_06_OpenCv_Mouse_Events" />
+        <item itemvalue="Python.60_07_OpenCv_Mouse_Events2" />
+        <item itemvalue="Python.60_08_OpenCv_Mouse_Events3" />
+        <item itemvalue="Python.29_Bianary" />
+        <item itemvalue="Python.61_LCM" />
       </list>
     </recent_temporary>
   </component>
