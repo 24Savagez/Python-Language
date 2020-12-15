@@ -23,8 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
+      <change afterPath="$PROJECT_DIR$/60_14_OpenCv_Thresholding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_14_OpenCv_Thersholding.py" beforeDir="false" afterPath="$PROJECT_DIR$/60_14_OpenCv_Thersholding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_14_OpenCv_Thersholding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_15_OpenCv_Thresholding02.py" beforeDir="false" afterPath="$PROJECT_DIR$/60_15_OpenCv_Thresholding02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,28 +62,7 @@
       <recent name="C:\Users\JaiDog\Documents\GitHub\Python-Language" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.60_14_OpenCv_Thresholding">
-    <configuration name="60_10_OpenCv_Bitwise_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Language" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/60_10_OpenCv_Bitwise_operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.60_15_OpenCv_Thresholding02">
     <configuration name="60_11_OpenCv_Blind_trackbar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,13 +147,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="60_15_OpenCv_Thresholding02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Language" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/60_15_OpenCv_Thresholding02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.60_15_OpenCv_Thresholding02" />
         <item itemvalue="Python.60_14_OpenCv_Thresholding" />
         <item itemvalue="Python.60_13_OpenCv_Obect_detection_HSV" />
         <item itemvalue="Python.60_12_OpenCv_Blind_trackbar2" />
         <item itemvalue="Python.60_11_OpenCv_Blind_trackbar" />
-        <item itemvalue="Python.60_10_OpenCv_Bitwise_operations" />
       </list>
     </recent_temporary>
   </component>
