@@ -6,7 +6,7 @@ def notting(x):
     pass
 
 
-#capture = cv2.VideoCapture(0)
+capture = cv2.VideoCapture(0)
 
 cv2.namedWindow("Tracking")
 # low
@@ -20,8 +20,8 @@ cv2.createTrackbar("UpperValue", "Tracking", 255, 255, notting)
 
 
 while True:
-    frame = cv2.imread("smarties.png")
-    #_, frame = capture.read()
+    #frame = cv2.imread("smarties.png")
+    _, frame = capture.read()
     # convert to hsv
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     # sent to trackbar
@@ -49,5 +49,5 @@ while True:
     if key == 27:
         break
 
-#capture.release()
+capture.release()
 cv2.destroyAllWindows()
