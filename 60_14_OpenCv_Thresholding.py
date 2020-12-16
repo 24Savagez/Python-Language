@@ -11,30 +11,14 @@ _, th4 = cv2.threshold(image, 127, 255, cv2.THRESH_TOZERO)
 _, th5 = cv2.threshold(image, 127, 255, cv2.THRESH_TOZERO_INV)
 
 # show image
-plt.subplot(2, 3, 1)
-plt.imshow(image)
-plt.title("Original")
-
-plt.subplot(2, 3, 2)
-plt.imshow(th1)
-plt.title("Binary")
-
-plt.subplot(2, 3, 3)
-plt.imshow(th2)
-plt.title("Bi_inverse")
-
-plt.subplot(2, 3, 4)
-plt.imshow(th3)
-plt.title("Trunc")
-
-plt.subplot(2, 3, 5)
-plt.imshow(th4)
-plt.title("To_zero")
-
-plt.subplot(2, 3, 6)
-plt.imshow(th5)
-plt.title("To_zero_inv")
-
+titles = ['Original', 'Binary', 'Bi_inverse', 'Trunc', 'To_zero', 'To_zero_inv']
+images = [image, th1, th2, th3, th4, th5]
+for i in range(len(images)):
+    plt.subplot(2, 3, i+1)
+    plt.imshow(images[i], 'gray')
+    plt.title(titles[i])
+    # delete x and y bar
+    plt.xticks([]), plt.yticks([])
 
 plt.show()
 cv2.waitKey(0)

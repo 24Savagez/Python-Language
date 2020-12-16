@@ -12,19 +12,19 @@ th1 = cv2.cvtColor(th1, cv2.COLOR_BGR2RGB)
 th2 = cv2.cvtColor(th2, cv2.COLOR_BGR2RGB)
 th3 = cv2.cvtColor(th3, cv2.COLOR_BGR2RGB)
 
-plt.subplot(1, 4, 1)
+plt.subplot(2, 2, 1)
 plt.imshow(image)
 plt.title("Original")
 
-plt.subplot(1, 4, 2)
+plt.subplot(2, 2, 2)
 plt.imshow(th1)
 plt.title("Binary")
 
-plt.subplot(1, 4, 3)
+plt.subplot(2, 2, 3)
 plt.imshow(th2)
 plt.title("Mean_C")
 
-plt.subplot(1, 4, 4)
+plt.subplot(2, 2, 4)
 plt.imshow(th3)
 plt.title("Gaussian_C")
 
