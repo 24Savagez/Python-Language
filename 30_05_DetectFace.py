@@ -18,22 +18,23 @@ def draw_boundary(img, classifier, scaleFactor, minNeighbors, color, text):
 
 
 def detect(img, faceCascade):
-    img = draw_boundary(img, faceCascade, 1.1, 10, (0, 0, 255), "Face")
+    img = draw_boundary(img, faceCascade, 1.1, 10, (0, 255, 0), "First")
     return img
 
 
 # read video
 cap = cv2.VideoCapture(0)
 
-while (True):
+while True:
     ret, frame = cap.read()
     # call function
     frame = detect(frame, faceCascade)
     cv2.imshow('frame', frame)
     # stop detect
-    if (cv2.waitKey(1) & 0xFF == ord('q')):
+    if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
-cap.release()
+cv2.waitKey(0)
+#cap.release()
 cv2.destroyAllWindows()
 
