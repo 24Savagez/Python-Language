@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_26_OpenCV_Detect_Geometric_Shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/60_26_OpenCV_Detect_Geometric_Shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shapes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/shapes.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
