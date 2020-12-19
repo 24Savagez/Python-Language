@@ -24,104 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1BitBlackWhite.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_01_SetupReadPicture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_02_ReadWebcam.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_03_ReadVideo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_04_DrawFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_05_DetectFace.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_06_DetectAll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_07_DetectOnlyFace.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_08_Trainning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_09_predictFace.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/59_PGCD.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_01_OpenCv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_02_OpenCv_video_capture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_03_OpenCv_draw_geometric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_04_OpenCa_Video_properties.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_05_OpenCv_Show_Date_Time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_06_OpenCv_Mouse_Events.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_07_OpenCv_Mouse_Events2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_08_OpenCv_Mouse_Events3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_09_OpenCv_split_add_merge_resize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_10_OpenCv_Bitwise_operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_11_OpenCv_Blind_trackbar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_12_OpenCv_Blind_trackbar2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_13_OpenCv_Obect_detection_HSV.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_14_OpenCv_Thresholding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_15_OpenCv_Thresholding02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_16_OpenCv_Matplotlib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_17_OpenCv_Morphological.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_18_OpenCv_Blur_image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_19_OpenCv_Gradients_Edge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_20_OpenCv_Canny_edge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_21_OpenCv_Pyramids.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_22_OpenCv_Pyramids02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_23_OpenCv_Blend_pyramids.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_24_Find_draw_contours.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_25_Motion_detection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_26_OpenCV_Detect_Geometric_Shapes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_27_OpenCv_Histograms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_28_OpenCv_Template_matching.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_29_OpenCV_Hough_line.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_30_OpenCv_Hough_linesP.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_31_OpenCv_Detection_lane.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_32_OpenCv_Detection_lane_Video.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_33_OpenCv_Circle_Detection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_34_OpenCv_FaceDetection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_35_OpenCv_FaceDetection_Video.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_36_OpenCv_EyeDetection_Video.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_37_OpenCV_Detect_Corners_Harris.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_37_OpenCV_Detect_Corners_Tomasi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_38_OpenCv_Background_Subtraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_39_OpenCv_MeanShif_object_tracking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_40_OpenCV_CamShift_tracking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/61_LCM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/62_HelloFirebase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BNK.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Irene.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Irene02.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lane.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lane02.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mouth.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nariz.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Noise.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Noise_salt_and_pepper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonClassifierCherprang.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Result.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seulki.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/building.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/captcha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chessboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradient.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haarcascade_eye.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haarcascade_eye_tree_eyeglasses.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haarcascade_smile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/j.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_copy_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lena_copy_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/messi5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/messi_face.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv-logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orange.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phum.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/road.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/road02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slow_traffic.mkv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smarties.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sudoku.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tain.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/traffic-light.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vtest.avi" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OpenCv_Learn" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
