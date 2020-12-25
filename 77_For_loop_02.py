@@ -1,0 +1,18 @@
+def temperature_table():
+    for celsius in range(101):  # 0 - 100
+        fahrenheit = (celsius * 9/5) + 32
+        # print(celsius, " = ", fahrenheit)
+        print("{}C = {:.2f}F".format(celsius, fahrenheit))
+
+
+# temperature_table()
+
+def mult_table(from_n, to_n):
+    # nested loop
+    for i in range(from_n, to_n + 1):
+        for j in range(1, 13):
+            print("{} x {} = {}".format(i, j, i*j))
+        print("-" * 40)
+
+
+mult_table(2, 12)
