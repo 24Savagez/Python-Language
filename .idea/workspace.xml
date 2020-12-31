@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10" />
+    <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
       <recent name="C:\Users\JaiDog\Documents\GitHub\Python-Language" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.102_identity_card_checkdigit">
+  <component name="RunManager" selected="Python.104_set_demo02">
     <configuration name="100_zip02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="98_comprehension04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="103_set_demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/98_comprehension04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/103_set_demo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="99_zip01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="104_set_demo02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/99_zip01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/104_set_demo02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.104_set_demo02" />
+        <item itemvalue="Python.103_set_demo01" />
         <item itemvalue="Python.102_identity_card_checkdigit" />
         <item itemvalue="Python.101_credit_card_checkdigit" />
         <item itemvalue="Python.100_zip02" />
-        <item itemvalue="Python.99_zip01" />
-        <item itemvalue="Python.98_comprehension04" />
       </list>
     </recent_temporary>
   </component>
