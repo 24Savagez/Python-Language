@@ -1,5 +1,6 @@
 import json
 
+
 def readJson():
     # some JSON:
     x = '{ "name":"John", "age":30, "city":"New York"}'
@@ -9,6 +10,7 @@ def readJson():
 
     # the result is a Python dictionary:
     print(y["name"])
+
 
 def writeJson():
     # a Python object (dict):
@@ -23,6 +25,7 @@ def writeJson():
 
     # the result is a JSON string:
     print(y)
+
 
 readJson()
 writeJson()

@@ -1,23 +1,23 @@
-#list
-list1 = [0,1,2,3,4,]
+# list
+list1 = [0, 1, 2, 3, 4, ]
 for i in list1:
     print(i)
 
-customerName = ["First","Ford","Fone"]
+customerName = ["First", "Ford", "Fone"]
 print(customerName[:2])
 print("First" in customerName)
 
-myFriends = ['First','Mark','Aek']
+myFriends = ['First', 'Mark', 'Aek']
 print(myFriends)
-#add more
+# add more
 myFriends.append('Gus')
 print(myFriends)
-#delete
+# delete
 myFriends.remove('Aek')
 print(myFriends)
-#update
+# update
 myFriends[1] = 'Pam'
 print(myFriends)
-#delete
+# delete
 del myFriends[0]
 print(myFriends)

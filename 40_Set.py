@@ -8,13 +8,12 @@ for i in setTest:
 setTest.remove("Apple")
 print(setTest)
 """
-fruits = {"apple","banana","orange"}
+fruits = {"apple", "banana", "orange"}
 print(fruits)
 fruits.remove("banana")
 print(fruits)
 fruits.add("Grape")
 print(fruits)
 
-
-#del delete all
-#del fruits
+# del delete all
+# del fruits

@@ -15,4 +15,3 @@ while b != c:
         c = c - b
 
 print("PGCD : ", c)
-

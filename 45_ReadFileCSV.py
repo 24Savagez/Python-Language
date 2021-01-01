@@ -1,5 +1,6 @@
 import csv
 
+
 def readCSV():
     with open('MyFriends.txt', mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -12,6 +13,7 @@ def readCSV():
             line_count += 1
         print(f'Processed {line_count} lines.')
 
+
 def writeCSV():
     with open('MyFriends.txt', mode='a') as Like_file:
         Like_writer = csv.writer(Like_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -19,5 +21,6 @@ def writeCSV():
         Like_writer.writerow(['firn', 'monday', 'pink'])
         Like_writer.writerow(['fah', 'friday', 'green'])
 
+
 readCSV()
-#writeCSV()
+# writeCSV()

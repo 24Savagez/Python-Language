@@ -26,6 +26,3 @@ textFormated = "Welcome %s"%(text)
 print(textFormated.center(21,"-"))
 print(len(text))
 '''
-
-
-

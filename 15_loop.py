@@ -10,4 +10,3 @@ while userGuess != correctNumber:
         print("Too Small!")
     elif userGuess == correctNumber:
         print("Correct \^-^/")
-

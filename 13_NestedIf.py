@@ -20,7 +20,7 @@ if usernameInput == "admin" and passwordInput == "1234":
         price = int(input("Price(THB) : "))
         vat = 0.07
         result = price * vat
-        print("You must pay Vat :"+format(result,'.2f'))
+        print("You must pay Vat :" + format(result, '.2f'))
     elif userSelected == 2:
         price = int(input("Price(THB) : "))
         vat = 1.07

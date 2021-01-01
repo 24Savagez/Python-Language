@@ -24,6 +24,58 @@
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_DataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_DataType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_DataTypeUse.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_DataTypeUse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_FunctionBMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_FunctionBMI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_Operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_ifelse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_NestedIf.py" beforeDir="false" afterPath="$PROJECT_DIR$/13_NestedIf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_Maximum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/15_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_While.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/17_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_forLoopMultiTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/18_forLoopMultiTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_BreakContinue.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_BreakContinue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_TestPyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/20_TestPyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_PrintonTogerherLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_PrintonTogerherLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Pyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_Pyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_FindNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_FindNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_FindTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_FindTriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/25_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_CallFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/26_CallFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27_HeartPyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/27_HeartPyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/28_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29_Bianary.py" beforeDir="false" afterPath="$PROJECT_DIR$/29_Bianary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30_PGCD.py" beforeDir="false" afterPath="$PROJECT_DIR$/30_PGCD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_Collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/31_Collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_PillowTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/32_PillowTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_iMagePIL.py" beforeDir="false" afterPath="$PROJECT_DIR$/33_iMagePIL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/34_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35_FucntionTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/35_FucntionTuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/36_Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37_ListExsample.py" beforeDir="false" afterPath="$PROJECT_DIR$/37_ListExsample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/38_ListInList.py" beforeDir="false" afterPath="$PROJECT_DIR$/38_ListInList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39_DictList.py" beforeDir="false" afterPath="$PROJECT_DIR$/39_DictList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/40_Set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_TestSetFruits.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_TestSetFruits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42_TryCatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/42_TryCatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43_ReadFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/43_ReadFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44_WriteFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/44_WriteFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45_ReadFileCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/45_ReadFileCSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46_Json.py" beforeDir="false" afterPath="$PROJECT_DIR$/46_Json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/47_UI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/48_UI02.py" beforeDir="false" afterPath="$PROJECT_DIR$/48_UI02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_WidgetUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/49_WidgetUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50_ColorUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/50_ColorUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51_UI03.py" beforeDir="false" afterPath="$PROJECT_DIR$/51_UI03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_EventDivenProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/52_EventDivenProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_GUIBMI.py" beforeDir="false" afterPath="$PROJECT_DIR$/53_GUIBMI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/54_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/54_Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/55_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56_Overriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/56_Overriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57_Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/57_Encapsulation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,91 +111,7 @@
       <recent name="C:\Users\JaiDog\Documents\GitHub\Python-Language" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.104_set_demo02">
-    <configuration name="100_zip02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Language" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100_zip02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="101_credit_card_checkdigit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Language" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/101_credit_card_checkdigit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="102_identity_card_checkdigit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Language" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/102_identity_card_checkdigit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="103_set_demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Language" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/103_set_demo01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.37_ListExsample">
     <configuration name="104_set_demo02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +133,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="105_set_demo03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Language" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105_set_demo03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="106_generators_yield" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Language" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106_generators_yield.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="107_dict_demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Language" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/107_dict_demo01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="37_ListExsample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Language" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37_ListExsample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.37_ListExsample" />
+        <item itemvalue="Python.107_dict_demo01" />
+        <item itemvalue="Python.106_generators_yield" />
+        <item itemvalue="Python.105_set_demo03" />
         <item itemvalue="Python.104_set_demo02" />
-        <item itemvalue="Python.103_set_demo01" />
-        <item itemvalue="Python.102_identity_card_checkdigit" />
-        <item itemvalue="Python.101_credit_card_checkdigit" />
-        <item itemvalue="Python.100_zip02" />
       </list>
     </recent_temporary>
   </component>

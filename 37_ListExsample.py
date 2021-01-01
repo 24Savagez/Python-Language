@@ -1,10 +1,11 @@
-def showBill():
-    totalPrice = 0
+def show_bill():
+    total_price = 0
     print("---- My Food ----")
     for number in range(len(menuList)):
-        print(menuList[number],priceList[number])
-        totalPrice += int(priceList[number])
-    print("Total :",totalPrice)
+        print(menuList[number], priceList[number])
+        total_price += int(priceList[number])
+    print("Total :", total_price)
+
 
 menuList = []
 priceList = []
@@ -17,9 +18,6 @@ while True:
         menuList.append(menu)
         priceList.append(price)
 
-#print(menuList,priceList)
+# print(menuList,priceList)
 
-showBill()
-
-
-
+show_bill()

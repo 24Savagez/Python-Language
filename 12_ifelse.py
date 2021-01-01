@@ -21,4 +21,3 @@ try:
         print("Invalid score")
 except ValueError:
     print("Error,please try 0 - 100")
-
