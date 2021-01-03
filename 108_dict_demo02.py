@@ -11,9 +11,39 @@ def demo2():
 def demo3():
     m = {
         "th": {"g": 5, "s": 3, "b": 7},
-        "sg": {"g": 3, "s": 1, "b": 2}
+        "sg": {"g": 3, "s": 1, "b": 2},
+        "jp": {"g": 13, "s": 10, "b": 25},
     }
     print(m)
     print(m["th"])
-    print(m["th"][0])
-    print(m["th"][0] + m["th"][1] + m["th"][2])
+    print(m["th"]["b"])
+    print(m["th"]["g"] + m["th"]["s"] + m["th"]["b"])
+
+
+def loop_dict():
+    m = {
+        "th": {"g": 5, "s": 3, "b": 7},
+        "sg": {"g": 3, "s": 1, "b": 2},
+        "jp": {"g": 13, "s": 10, "b": 25},
+    }
+    print(m.keys())
+    # only key with sort
+    for c in sorted(m.keys()):
+        print(c)
+    print("-" * 40)
+    # only key
+    for c in m.keys():
+        print(c)
+    print("-" * 40)
+    # only value
+    for c in m.values():
+        print(c)
+    print("-" * 40)
+    # all
+    for k, v in m.items():
+        print("key= {} , value= {}".format(k, v))
+    print("-" * 40)
+
+
+# demo3()
+loop_dict()
