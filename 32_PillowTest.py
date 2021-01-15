@@ -2,6 +2,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 # read image
 # img = Image.open("Irene.jpg").convert("L")
 # print(img.format,img.size,img.mode)
@@ -14,17 +15,17 @@ import numpy as np
 
 # Color transforms
 
-img1 = Image.open("Irene.jpg").convert("1")
-img2 = Image.open("Irene.jpg").convert("L")
-img3 = Image.open("Irene.jpg").convert("P")
-img4 = Image.open("Irene.jpg").convert("RGB")
-img5 = Image.open("Irene.jpg").convert("RGBA")
-img6 = Image.open("Irene.jpg").convert("CMYK")
-img7 = Image.open("Irene.jpg").convert("YCbCr")
-img8 = Image.open("Irene.jpg").convert("LA")
-img9 = Image.open("Irene.jpg").convert("HSV")
-img10 = Image.open("Irene.jpg").convert("I")
-img11 = Image.open("Irene.jpg").convert("F")
+img1 = Image.open("lena.jpg").convert("1")
+img2 = Image.open("lena.jpg").convert("L")
+img3 = Image.open("lena.jpg").convert("P")
+img4 = Image.open("lena.jpg").convert("RGB")
+img5 = Image.open("lena.jpg").convert("RGBA")
+img6 = Image.open("lena.jpg").convert("CMYK")
+img7 = Image.open("lena.jpg").convert("YCbCr")
+img8 = Image.open("lena.jpg").convert("LA")
+img9 = Image.open("lena.jpg").convert("HSV")
+img10 = Image.open("lena.jpg").convert("I")
+img11 = Image.open("lena.jpg").convert("F")
 
 plt.figure(figsize=(10, 10))
 
