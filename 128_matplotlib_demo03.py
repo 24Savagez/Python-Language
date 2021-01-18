@@ -6,12 +6,17 @@ product2 = [15, 30, 10, 20, 60]
 month = [1, 2, 3, 4, 5]
 
 # show plot
-plt.plot(month, product1, color="c")
-plt.plot(month, product2, color="m")
+plt.plot(month, product1, color="c", marker="s", linestyle=":")
+plt.plot(month, product2, "ms-.")
+
+# title
+config = {"size": 25, "color": "green"}
+plt.title("Top Sale 2020", config, loc="left")
 
 # set label
-plt.xlabel("Month")
-plt.ylabel("Sales")
+data = {"size": 20, "color": "blue", "backgroundcolor": "yellow"}
+plt.xlabel("Month", size=20, color="red", backgroundcolor="yellow")
+plt.ylabel("Sales", data)
 
 # save picture
 # plt.savefig("export1.png", transparent=True)
