@@ -24,9 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7ee0696-0c70-45d4-a91d-8a6975186c69" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/126_matplotlib_demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/126_matplotlib01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/127_matplotlib_demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/127_matplotlib02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/128_matplotlib_demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/128_matplotlib03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/131_matplotlib06.py" beforeDir="false" afterPath="$PROJECT_DIR$/131_matplotlib_pie_circle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <recent name="C:\Users\JaiDog\Documents\GitHub\Python-Language" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.131_matplotlib06">
+  <component name="RunManager" selected="Python.135_matplotlib_bar_chart">
     <configuration name="113_read_demo_unicode" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="128_matplotlib03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="131_matplotlib_pie_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\FirstOnez\Documents\GitHub\Python-Language\128_matplotlib03.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\FirstOnez\Documents\GitHub\Python-Language\131_matplotlib_pie_circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="129_matplotlib04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="132_matplotlib_scatter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\FirstOnez\Documents\GitHub\Python-Language\129_matplotlib04.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\FirstOnez\Documents\GitHub\Python-Language\132_matplotlib_scatter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="130_matplotlib05 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="133_matplotlib_histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/130_matplotlib05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/133_matplotlib_histogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="130_matplotlib05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="134_matplot_histograme02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +178,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\FirstOnez\Documents\GitHub\Python-Language\130_matplotlib05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/134_matplot_histograme02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="131_matplotlib06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="135_matplotlib_bar_chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Language" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/131_matplotlib06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/135_matplotlib_bar_chart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,19 +211,19 @@
     <list>
       <item itemvalue="Python.113_read_demo_unicode" />
       <item itemvalue="Python.117_tis_to_unicode" />
-      <item itemvalue="Python.130_matplotlib05" />
-      <item itemvalue="Python.130_matplotlib05 (1)" />
-      <item itemvalue="Python.131_matplotlib06" />
-      <item itemvalue="Python.128_matplotlib03" />
-      <item itemvalue="Python.129_matplotlib04" />
+      <item itemvalue="Python.132_matplotlib_scatter" />
+      <item itemvalue="Python.131_matplotlib_pie_circle" />
+      <item itemvalue="Python.133_matplotlib_histogram" />
+      <item itemvalue="Python.134_matplot_histograme02" />
+      <item itemvalue="Python.135_matplotlib_bar_chart" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.131_matplotlib06" />
-        <item itemvalue="Python.130_matplotlib05 (1)" />
-        <item itemvalue="Python.130_matplotlib05" />
-        <item itemvalue="Python.129_matplotlib04" />
-        <item itemvalue="Python.128_matplotlib03" />
+        <item itemvalue="Python.135_matplotlib_bar_chart" />
+        <item itemvalue="Python.134_matplot_histograme02" />
+        <item itemvalue="Python.133_matplotlib_histogram" />
+        <item itemvalue="Python.132_matplotlib_scatter" />
+        <item itemvalue="Python.131_matplotlib_pie_circle" />
       </list>
     </recent_temporary>
   </component>
